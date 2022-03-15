@@ -1,0 +1,1 @@
+This repository contains multiple class-based Data Structures with certain methods and functionalities. Among these Data-Structures are Singly inked List, Doubly Linked List, Stacks, Queues, Trees, Breadth First Search, Depth First Search, Binary Heaps, Priority Queue, Jash Tables, Graphs, Graph Traversal, Dijkstra Algorithm and Big O notation of time & space complexity.
